@@ -1,0 +1,26 @@
+
+.pai{
+    background-color: rgb(239, 204, 159);
+    width: 800px;
+    height: 300px;
+    border: solid 2px #e6a743;
+    margin: 10px;
+    border-radius: 10px;
+}
+.caixa{
+    background-color: rgb(136, 88, 32);
+    width: 120px;
+    height: 120px;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.titulo{
+    font-family: monospace;
+    margin-left: 5px;        
+}
+
+.cor{
+    color: rgb(188, 119, 23);
+    font-size: 50px;
+}
